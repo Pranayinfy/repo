@@ -1,0 +1,91 @@
+Ethical hacking phases
+1.reconaissance - information gathering
+active- target direct interact
+passive- indirect target 
+
+2.scanning(ip-internet protocol)(internet service provider)
+ip/domain
+phonebook
+facebook.com ----> dns (facebook.com --> 0.0.0.0)
+ip scan
+port 
+http server -- > 80
+
+port scanning - ports open/services/properly configured or not
+65535, 0-1023-well known ports
+	1024-49151- registered ports
+	49152-65535 -dynamic/private ports
+vulnerability scanning -services/properly configured or not
+
+
+3.gaining access(exploitation)
+we will gain access
+
+4.maintaining access
+mataining connection with the target
+
+
+5.clearing tracks
+we need to remove our traces from the system
+
+
+
+jon
+alqfna22
+ip
+
+
+
+
+
+
+CEH  - demand 40k
+OSCP -140k
+ejpt - 30k
+security+ -30k
+
+
+PNPT- 30k - 2attempts
+
+
+
+CISSP - 5years - management- soc manager -ciso
+
+
+android
+linux- sec-linux
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
